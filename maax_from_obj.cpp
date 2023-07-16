@@ -28,6 +28,8 @@ int main()
             mx = max[i];
         }
     }
-    cout << mx.name;
+    cout << mx.name << endl;
+    cout << mx.id << endl;
+    cout << mx.marks << endl;
     return 0;
 }
